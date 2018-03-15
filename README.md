@@ -5,6 +5,7 @@ Tech tings all mans gotta keep in their head tops
 - [Know enough `kubectl` to be dangerous](https://docs.google.com/document/d/1PjkAfuKUt9x-HHmDfojJ-h8aRAe8MLvKVV0Aci8xHa0)
 - [Shopify Kubernetes sandbox](https://github.com/shopify/kubectl-examples)
 - [Some useful K8s commands for Shopify Core](https://vault.shopify.com/prod_eng/Cloud-Native-Shopify-Core-Playbook)
+- [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way#kubernetes-the-hard-way)
 
 ## Resque
 
