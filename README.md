@@ -8,11 +8,11 @@ Tech tings all mans gotta keep in their head tops
 - [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way#kubernetes-the-hard-way)
 
 ## Resque
-
 - [Introducing Resque (blog post)](https://blog.github.com/2009-11-03-introducing-resque/)
 - [Github repository](https://github.com/resque/resque)
-
-## Resque Scheduler
+- [Resque Scheduler](https://github.com/resque/resque-scheduler)
+- [Resque Scheduler Sandbox](https://github.com/jherrm/Resque-Scheduler-Example)
+- [Redis-rb](https://github.com/redis/redis-rb)
 
 ## Semian
 See the Semian [README](https://github.com/Shopify/semian/blob/master/README.md).
