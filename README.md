@@ -12,7 +12,10 @@ Tech tings all mans gotta keep in their head tops
 - [Github repository](https://github.com/resque/resque)
 - [Resque Scheduler](https://github.com/resque/resque-scheduler)
 - [Resque Scheduler Sandbox](https://github.com/jherrm/Resque-Scheduler-Example)
+
+## Redis
 - [Redis-rb](https://github.com/redis/redis-rb)
+- [Pipelining Redis commands](https://redis.io/topics/pipelining)
 
 ## Semian
 See the Semian [README](https://github.com/Shopify/semian/blob/master/README.md).
