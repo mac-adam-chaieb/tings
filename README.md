@@ -14,8 +14,14 @@ Tech tings all mans gotta keep in their head tops
 - [Resque Scheduler Sandbox](https://github.com/jherrm/Resque-Scheduler-Example)
 
 ## Redis
+- [Redis Tutorial](https://www.tutorialspoint.com/redis/index.htm)
 - [Redis-rb](https://github.com/redis/redis-rb)
 - [Pipelining Redis commands](https://redis.io/topics/pipelining)
+
+## Performance/Benchmarking
+- [Profiling and CPU Flame Graphs](http://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html)
+- [stackprof](https://github.com/tmm1/stackprof)
+- [Benchmark](https://ruby-doc.org/stdlib-1.9.3/libdoc/benchmark/rdoc/Benchmark.html)
 
 ## Semian
 See the Semian [README](https://github.com/Shopify/semian/blob/master/README.md).
