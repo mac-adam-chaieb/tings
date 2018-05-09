@@ -14,6 +14,7 @@ Tech tings all mans gotta keep in their head tops
 - [Resque Scheduler Sandbox](https://github.com/jherrm/Resque-Scheduler-Example)
 
 ## Redis
+- [Redis in Action by Redis Labs](https://redislabs.com/ebook/part-1-getting-started/)
 - [Redis Tutorial](https://www.tutorialspoint.com/redis/index.htm)
 - [Redis-rb](https://github.com/redis/redis-rb)
 - [Pipelining Redis commands](https://redis.io/topics/pipelining)
@@ -28,3 +29,7 @@ See the Semian [README](https://github.com/Shopify/semian/blob/master/README.md)
 
 ## Caching
 - [Caching Explained: Write-Through, Write-Around, Write-Back](http://www.computerweekly.com/feature/Write-through-write-around-write-back-Cache-explained)
+
+## Docker
+- [Docker Docs](https://docs.docker.com/get-started/)
+- [Docker for Beginners](https://docker-curriculum.com)
