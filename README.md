@@ -18,6 +18,7 @@ Tech tings all mans gotta keep in their head tops
 - [Redis Tutorial](https://www.tutorialspoint.com/redis/index.htm)
 - [Redis-rb](https://github.com/redis/redis-rb)
 - [Pipelining Redis commands](https://redis.io/topics/pipelining)
+- [Redis Persistence](https://redis.io/topics/persistence)
 
 ## Performance/Benchmarking
 - [Profiling and CPU Flame Graphs](http://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html)
