@@ -1,6 +1,9 @@
 # tings
 Tech tings all mans gotta keep in their head tops
 
+## Shopify Tings
+- [Engineering Matrix](https://docs.google.com/document/d/1P7ioQq-wGsyB7F9esivl6k3e7EwfjI688nPUqeMs15o/edit#), ([my own progress](https://docs.google.com/spreadsheets/d/18fFInDrQAzFyFL7HTKctQNABOEUxiohZkUfE-C2G4oE/edit#gid=0))
+
 ## Kubernetes
 - [Know enough `kubectl` to be dangerous](https://docs.google.com/document/d/1PjkAfuKUt9x-HHmDfojJ-h8aRAe8MLvKVV0Aci8xHa0)
 - [Shopify Kubernetes sandbox](https://github.com/shopify/kubectl-examples)
@@ -35,3 +38,7 @@ See the Semian [README](https://github.com/Shopify/semian/blob/master/README.md)
 ## Docker
 - [Docker Docs](https://docs.docker.com/get-started/)
 - [Docker for Beginners](https://docker-curriculum.com)
+
+## SRE Principles
+- [Google SRE Book](https://landing.google.com/sre/book.html)
+
