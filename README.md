@@ -1,13 +1,13 @@
 # tings
-Tech tings all mans gotta keep in their head tops
+Tech tings all mans gotta keep in their head tops. _Translation: Reading list of technology resources to keep in mind._
 
 ## Shopify Tings
 - [Engineering Matrix](https://docs.google.com/document/d/1P7ioQq-wGsyB7F9esivl6k3e7EwfjI688nPUqeMs15o/edit#), ([my own progress](https://docs.google.com/spreadsheets/d/18fFInDrQAzFyFL7HTKctQNABOEUxiohZkUfE-C2G4oE/edit#gid=0))
 
 ## Kubernetes
-- [Know enough `kubectl` to be dangerous](https://docs.google.com/document/d/1PjkAfuKUt9x-HHmDfojJ-h8aRAe8MLvKVV0Aci8xHa0)
-- [Shopify Kubernetes sandbox](https://github.com/shopify/kubectl-examples)
-- [Some useful K8s commands for Shopify Core](https://vault.shopify.com/prod_eng/Cloud-Native-Shopify-Core-Playbook)
+- [Know enough `kubectl` to be dangerous](https://docs.google.com/document/d/1PjkAfuKUt9x-HHmDfojJ-h8aRAe8MLvKVV0Aci8xHa0) (Private)
+- [Shopify Kubernetes sandbox](https://github.com/shopify/kubectl-examples) (Private)
+- [Some useful K8s commands for Shopify Core](https://vault.shopify.com/prod_eng/Cloud-Native-Shopify-Core-Playbook) (Private)
 - [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way#kubernetes-the-hard-way)
 
 ## Resque
