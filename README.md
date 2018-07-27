@@ -1,5 +1,5 @@
 # tings
-Tech tings all mans gotta keep in their head tops. _Translation: Reading list of technology resources to keep in mind._
+Tech tings all mans gotta keep in their head tops. _Translation: Reading list of useful technology resources to keep handy._
 
 ## Shopify Level of Impact
 - [Engineering Matrix](https://docs.google.com/document/d/1P7ioQq-wGsyB7F9esivl6k3e7EwfjI688nPUqeMs15o/edit#), ([my own progress](https://docs.google.com/spreadsheets/d/18fFInDrQAzFyFL7HTKctQNABOEUxiohZkUfE-C2G4oE/edit#gid=0)) (Private)
@@ -41,6 +41,12 @@ See the Semian [README](https://github.com/Shopify/semian/blob/master/README.md)
 
 ## Datadog Agent
 - [Writing Datadog agent checks](https://docs.datadoghq.com/developers/agent_checks)
+
+## UNIX/Operating Systems
+- [UNIX Signals](https://www.tutorialspoint.com/unix/unix-signals-traps.htm)
+
+## Ruby
+- [Enumerator vs Enumerable](https://blog.arkency.com/2014/01/ruby-to-enum-for-enumerator/)
 
 ## SRE Principles
 - [Google SRE Book](https://landing.google.com/sre/book.html)
