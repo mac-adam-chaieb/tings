@@ -1,7 +1,7 @@
 # tings
 Tech tings all mans gotta keep in their head tops. _Translation: Reading list of technology resources to keep in mind._
 
-## Shopify Tings
+## Shopify Level of Impact
 - [Engineering Matrix](https://docs.google.com/document/d/1P7ioQq-wGsyB7F9esivl6k3e7EwfjI688nPUqeMs15o/edit#), ([my own progress](https://docs.google.com/spreadsheets/d/18fFInDrQAzFyFL7HTKctQNABOEUxiohZkUfE-C2G4oE/edit#gid=0)) (Private)
 
 ## Kubernetes
@@ -38,6 +38,9 @@ See the Semian [README](https://github.com/Shopify/semian/blob/master/README.md)
 ## Docker
 - [Docker Docs](https://docs.docker.com/get-started/)
 - [Docker for Beginners](https://docker-curriculum.com)
+
+## Datadog Agent
+- [Writing Datadog agent checks](https://docs.datadoghq.com/developers/agent_checks)
 
 ## SRE Principles
 - [Google SRE Book](https://landing.google.com/sre/book.html)
