@@ -43,7 +43,10 @@ See the Semian [README](https://github.com/Shopify/semian/blob/master/README.md)
 - [Writing Datadog agent checks](https://docs.datadoghq.com/developers/agent_checks)
 
 ## UNIX/Operating Systems
-- [UNIX Signals](https://www.tutorialspoint.com/unix/unix-signals-traps.htm)
+- [UNIX Signals](https://en.wikipedia.org/wiki/Signal_(IPC))
+
+## Queue Systems
+- [Centrifuge: MySQL-backed message broker](https://segment.com/blog/introducing-centrifuge/)
 
 ## Ruby
 - [Enumerator vs Enumerable](https://blog.arkency.com/2014/01/ruby-to-enum-for-enumerator/)
