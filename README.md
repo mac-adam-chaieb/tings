@@ -51,6 +51,9 @@ See the Semian [README](https://github.com/Shopify/semian/blob/master/README.md)
 ## Ruby
 - [Enumerator vs Enumerable](https://blog.arkency.com/2014/01/ruby-to-enum-for-enumerator/)
 
+## Security
+- [TLS Connections Illustrated](https://tls.ulfheim.net)
+
 ## SRE Principles
 - [Google SRE Book](https://landing.google.com/sre/book.html)
 
