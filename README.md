@@ -17,6 +17,7 @@ Tech tings all mans gotta keep in their head tops. _Translation: Reading list of
 - [Resque Scheduler Sandbox](https://github.com/jherrm/Resque-Scheduler-Example)
 
 ## Redis
+- [Redis Documentation](https://redis.io/documentation)
 - [Redis in Action by Redis Labs](https://redislabs.com/ebook/part-1-getting-started/)
 - [Redis Tutorial](https://www.tutorialspoint.com/redis/index.htm)
 - [Redis-rb](https://github.com/redis/redis-rb)
