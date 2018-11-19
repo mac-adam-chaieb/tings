@@ -1,9 +1,6 @@
 # tings
 Tech tings all mans gotta keep in their head tops. _Translation: Reading list of useful technology resources to keep handy._
 
-## Shopify Level of Impact
-- [Engineering Matrix](https://docs.google.com/document/d/1P7ioQq-wGsyB7F9esivl6k3e7EwfjI688nPUqeMs15o/edit#), ([my own progress](https://docs.google.com/spreadsheets/d/1zd87XsEy7cSTA3h47JJUx5DvWnedPolxsHQYf8dY9M4/edit#gid=0)) (Private)
-
 ## Kubernetes
 - [Know enough `kubectl` to be dangerous](https://docs.google.com/document/d/1PjkAfuKUt9x-HHmDfojJ-h8aRAe8MLvKVV0Aci8xHa0) (Private)
 - [Shopify Kubernetes sandbox](https://github.com/shopify/kubectl-examples) (Private)
