@@ -51,8 +51,7 @@ See the Semian [README](https://github.com/Shopify/semian/blob/master/README.md)
 - [Enumerator vs Enumerable](https://blog.arkency.com/2014/01/ruby-to-enum-for-enumerator/)
 
 ## Go
--[Go by Example](https://gobyexample.com)
--[]()
+- [Go by Example](https://gobyexample.com)
 
 ## Security
 - [TLS Connections Illustrated](https://tls.ulfheim.net)
