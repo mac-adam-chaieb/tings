@@ -25,9 +25,10 @@ Tech tings all mans gotta keep in their head tops. _Translation: Reading list of
 - [Profiling and CPU Flame Graphs](http://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html)
 - [stackprof](https://github.com/tmm1/stackprof)
 - [Benchmark](https://ruby-doc.org/stdlib-1.9.3/libdoc/benchmark/rdoc/Benchmark.html)
+- [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
 
-## Semian
-See the Semian [README](https://github.com/Shopify/semian/blob/master/README.md).
+## Resiliency Patterns
+- [Semian](https://github.com/Shopify/semian/blob/master/README.md).
 
 ## Caching
 - [Caching Explained: Write-Through, Write-Around, Write-Back](http://www.computerweekly.com/feature/Write-through-write-around-write-back-Cache-explained)
