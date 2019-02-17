@@ -28,7 +28,8 @@ Tech tings all mans gotta keep in their head tops. _Translation: Reading list of
 - [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
 
 ## Resiliency Patterns
-- [Semian](https://github.com/Shopify/semian/blob/master/README.md).
+- [Semian](https://github.com/Shopify/semian/blob/master/README.md)
+- [Go-Resiliency](https://github.com/eapache/go-resiliency)
 
 ## Caching
 - [Caching Explained: Write-Through, Write-Around, Write-Back](http://www.computerweekly.com/feature/Write-through-write-around-write-back-Cache-explained)
@@ -47,6 +48,7 @@ Tech tings all mans gotta keep in their head tops. _Translation: Reading list of
 
 ## Queue Systems
 - [Centrifuge: MySQL-backed message broker](https://segment.com/blog/introducing-centrifuge/)
+- [Disque](https://github.com/antirez/disque)
 
 ## Ruby
 - [Enumerator vs Enumerable](https://blog.arkency.com/2014/01/ruby-to-enum-for-enumerator/)
