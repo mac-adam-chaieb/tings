@@ -2,10 +2,8 @@
 Tech tings all mans gotta keep in their head tops. _Translation: Reading list of useful technology resources to keep handy._
 
 ## Kubernetes
-- [Know enough `kubectl` to be dangerous](https://docs.google.com/document/d/1PjkAfuKUt9x-HHmDfojJ-h8aRAe8MLvKVV0Aci8xHa0) (Private)
-- [Shopify Kubernetes sandbox](https://github.com/shopify/kubectl-examples) (Private)
-- [Some useful K8s commands for Shopify Core](https://vault.shopify.com/prod_eng/Cloud-Native-Shopify-Core-Playbook) (Private)
 - [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way#kubernetes-the-hard-way)
+- [Kubernetes Docs](https://kubernetes.io/docs/home/)
 
 ## Resque
 - [Introducing Resque (blog post)](https://blog.github.com/2009-11-03-introducing-resque/)
