@@ -4,6 +4,7 @@ Tech tings all mans gotta keep in their head tops. _Translation: Reading list of
 ## Kubernetes
 - [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way#kubernetes-the-hard-way)
 - [Kubernetes Docs](https://kubernetes.io/docs/home/)
+- [What happens when... Kubernetes Edition](https://github.com/jamiehannaford/what-happens-when-k8s/blob/master/README.md)
 
 ## Resque
 - [Introducing Resque (blog post)](https://blog.github.com/2009-11-03-introducing-resque/)
